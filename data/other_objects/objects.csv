@@ -1,0 +1,8 @@
+#filename,sprite_x,sprite_y,image_x,image_y
+fridge.png,86,206,625,344
+cat.png,91,70,594,320
+dog.png,125,96,616,351
+chair.png,46,121,549,331
+fridge_with_shadow.png,86,206,625,344
+red_fridge.png,86,206,625,344
+fridge_with_wheel.png,86,206,625,344
